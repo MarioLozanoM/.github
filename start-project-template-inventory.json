@@ -5,8 +5,8 @@
             { "name": "im-deploy-az-app-manually.yml", "canHaveMultiples": true},
             { "name": "im-deploy-multiple-items-at-once.yml", "canHaveMultiples": false},
             { "name": "im-deploy-cleanup-automated-board.yml", "canHaveMultiples": false},
-            { "name": "im-test-checkmarx-cli-sast-scan.yml", "canHaveMultiples": false}
-
+            { "name": "im-test-checkmarx-cli-sast-scan.yml", "canHaveMultiples": false},
+            { "name": "env-vars.yml", "canHaveMultiples": false}
         ],
         "optionalTemplates": [
             { "name": "im-build-cleanup-releases-for-branches.yml", "canHaveMultiples": false},
